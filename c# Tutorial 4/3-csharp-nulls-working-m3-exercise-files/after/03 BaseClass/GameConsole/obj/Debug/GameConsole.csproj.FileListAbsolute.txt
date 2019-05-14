@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\bin\Debug\GameConsole.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\bin\Debug\GameConsole.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\bin\Debug\GameConsole.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\obj\Debug\GameConsole.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 4\3-csharp-nulls-working-m3-exercise-files\after\03 BaseClass\GameConsole\obj\Debug\GameConsole.pdb

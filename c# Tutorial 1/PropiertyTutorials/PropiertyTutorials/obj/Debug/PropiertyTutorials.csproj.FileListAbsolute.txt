@@ -1,0 +1,10 @@
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\bin\Debug\PropiertyTutorials.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\bin\Debug\PropiertyTutorials.exe
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\bin\Debug\PropiertyTutorials.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\bin\Debug\MyLibrary.dll
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\bin\Debug\MyLibrary.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\obj\Debug\PropiertyTutorials.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\obj\Debug\PropiertyTutorials.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\obj\Debug\PropiertyTutorials.csproj.CopyComplete
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\obj\Debug\PropiertyTutorials.exe
+C:\Users\fesolano\Desktop\c# Tutorial\PropiertyTutorials\PropiertyTutorials\obj\Debug\PropiertyTutorials.pdb

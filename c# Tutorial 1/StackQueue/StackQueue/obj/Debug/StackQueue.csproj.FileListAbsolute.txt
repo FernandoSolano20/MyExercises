@@ -1,0 +1,13 @@
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\bin\Debug\StackQueue.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\bin\Debug\StackQueue.exe
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\bin\Debug\StackQueue.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\obj\Debug\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\obj\Debug\StackQueue.exe
+C:\Users\fesolano\Desktop\c# Tutorial\StackQueue\StackQueue\obj\Debug\StackQueue.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\bin\Debug\StackQueue.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\bin\Debug\StackQueue.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\bin\Debug\StackQueue.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\obj\Debug\StackQueue.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\obj\Debug\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\obj\Debug\StackQueue.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\StackQueue\StackQueue\obj\Debug\StackQueue.pdb

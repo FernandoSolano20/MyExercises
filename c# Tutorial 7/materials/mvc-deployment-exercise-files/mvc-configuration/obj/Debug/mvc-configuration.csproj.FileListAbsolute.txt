@@ -1,0 +1,7 @@
+c:\temp\mvc-configuration\bin\mvc-configuration.Contracts.dll
+c:\temp\mvc-configuration\bin\mvc-configuration.Contracts.pdb
+c:\temp\mvc-configuration\bin\mvc-configuration.dll
+c:\temp\mvc-configuration\bin\mvc-configuration.pdb
+c:\temp\mvc-configuration\obj\Debug\ResolveAssemblyReference.cache
+c:\temp\mvc-configuration\obj\Debug\mvc-configuration.dll
+c:\temp\mvc-configuration\obj\Debug\mvc-configuration.pdb

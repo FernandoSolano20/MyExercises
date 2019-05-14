@@ -1,0 +1,13 @@
+C:\dev\asyncawait\after\TPL\bin\Debug\TPL.exe.config
+C:\dev\asyncawait\after\TPL\bin\Debug\TPL.exe
+C:\dev\asyncawait\after\TPL\bin\Debug\TPL.pdb
+C:\dev\asyncawait\after\TPL\obj\Debug\TPL.exe
+C:\dev\asyncawait\after\TPL\obj\Debug\TPL.pdb
+C:\dev\asyncawait\after\TPL\obj\Debug\TPL.csprojResolveAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\bin\Debug\TPL.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\bin\Debug\TPL.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\bin\Debug\TPL.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\obj\Debug\TPL.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\obj\Debug\TPL.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\obj\Debug\TPL.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\TPL\obj\Debug\TPL.pdb

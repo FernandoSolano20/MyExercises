@@ -1,0 +1,14 @@
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\obj\Debug\Hashtable.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\fesolano\Desktop\c# Tutorial\Hashtable\Hashtable\obj\Debug\Hashtable.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\bin\Debug\Hashtable.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\bin\Debug\Hashtable.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\bin\Debug\Hashtable.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\obj\Debug\Hashtable.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\obj\Debug\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\obj\Debug\Hashtable.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 1\Hashtable\Hashtable\obj\Debug\Hashtable.pdb

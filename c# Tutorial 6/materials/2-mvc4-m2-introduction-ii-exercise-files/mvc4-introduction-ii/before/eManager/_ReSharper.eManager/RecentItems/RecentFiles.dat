@@ -1,0 +1,30 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/f:packages.config" caret="82" fromTop="2" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:App_Start/f:RouteConfig.cs" caret="686" fromTop="26" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Views/d:Shared/f:_Layout.cshtml" caret="1329" fromTop="25" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/f:Global.asax.cs" caret="830" fromTop="26" />
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:Department.cs" caret="338" fromTop="12" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Migrations/f:Configuration.cs" caret="389" fromTop="13" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/f:Web.config" caret="1656" fromTop="26" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Infrastructure/f:DepartmentDb.cs" caret="449" fromTop="15" />
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:IDepartmentDataSource.cs" caret="202" fromTop="9" />
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:Employee.cs" caret="0" fromTop="0" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:DependencyResolution/f:IoC.cs" caret="0" fromTop="0" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Controllers/f:HomeController.cs" caret="557" fromTop="18" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Views/d:Home/f:Index.cshtml" caret="237" fromTop="15" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:Employee.cs" caret="254" fromTop="11" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/f:packages.config" caret="82" fromTop="2" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:App_Start/f:RouteConfig.cs" caret="684" fromTop="25" />
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:Department.cs" caret="338" fromTop="12" />
+    <File id="0B10C90E-4FDD-4253-9BFE-657A562B029E/f:IDepartmentDataSource.cs" caret="211" fromTop="9" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Migrations/f:Configuration.cs" caret="797" fromTop="22" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Infrastructure/f:DepartmentDb.cs" caret="314" fromTop="9" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/f:Web.config" caret="819" fromTop="11" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Controllers/f:HomeController.cs" caret="403" fromTop="17" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:DependencyResolution/f:IoC.cs" caret="600" fromTop="14" />
+    <File id="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC/d:Views/d:Home/f:Index.cshtml" caret="212" fromTop="12" />
+  </RecentEdits>
+</RecentFiles>

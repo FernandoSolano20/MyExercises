@@ -1,0 +1,11 @@
+C:\dev\eManager\eManager.Domain\bin\Release\eManager.Domain.dll
+C:\dev\eManager\eManager.Domain\bin\Release\eManager.Domain.pdb
+C:\dev\eManager\eManager.Domain\obj\Release\eManager.Domain.csprojResolveAssemblyReference.cache
+C:\dev\eManager\eManager.Domain\obj\Release\eManager.Domain.dll
+C:\dev\eManager\eManager.Domain\obj\Release\eManager.Domain.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\bin\Release\eManager.Domain.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\bin\Release\eManager.Domain.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\obj\Release\eManager.Domain.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\obj\Release\eManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\obj\Release\eManager.Domain.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\2-mvc4-m2-introduction-ii-exercise-files\mvc4-introduction-ii\after\eManager\eManager.Domain\obj\Release\eManager.Domain.pdb

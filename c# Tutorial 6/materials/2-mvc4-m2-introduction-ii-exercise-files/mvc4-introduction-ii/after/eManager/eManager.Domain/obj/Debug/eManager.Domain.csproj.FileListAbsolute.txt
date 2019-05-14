@@ -1,0 +1,4 @@
+C:\dev\eManager\eManager.Domain\bin\Debug\eManager.Domain.dll
+C:\dev\eManager\eManager.Domain\bin\Debug\eManager.Domain.pdb
+C:\dev\eManager\eManager.Domain\obj\Debug\eManager.Domain.dll
+C:\dev\eManager\eManager.Domain\obj\Debug\eManager.Domain.pdb

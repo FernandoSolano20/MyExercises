@@ -1,0 +1,6 @@
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\bin\Debug\SortedListPogram.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\bin\Debug\SortedListPogram.exe
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\bin\Debug\SortedListPogram.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\obj\Debug\SortedListPogram.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\obj\Debug\SortedListPogram.exe
+C:\Users\fesolano\Desktop\c# Tutorial\SortedListPogram\SortedListPogram\obj\Debug\SortedListPogram.pdb

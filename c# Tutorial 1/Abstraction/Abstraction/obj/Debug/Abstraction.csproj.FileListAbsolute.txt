@@ -1,0 +1,10 @@
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\bin\Debug\MyLibrary.dll
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\bin\Debug\MyLibrary.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CopyComplete
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\fesolano\Desktop\c# Tutorial\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

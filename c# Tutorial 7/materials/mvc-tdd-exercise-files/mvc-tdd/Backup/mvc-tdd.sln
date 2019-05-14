@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc-tdd", "mvc-tdd.csproj", "{5714F16D-6872-4A8E-AF20-15699B62F68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc-tdd.Tests", "..\mvc-tdd.Tests\mvc-tdd.Tests.csproj", "{6DEE4D78-65D5-4164-A561-C3202E9F4213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5714F16D-6872-4A8E-AF20-15699B62F68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5714F16D-6872-4A8E-AF20-15699B62F68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5714F16D-6872-4A8E-AF20-15699B62F68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5714F16D-6872-4A8E-AF20-15699B62F68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEE4D78-65D5-4164-A561-C3202E9F4213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEE4D78-65D5-4164-A561-C3202E9F4213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEE4D78-65D5-4164-A561-C3202E9F4213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEE4D78-65D5-4164-A561-C3202E9F4213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

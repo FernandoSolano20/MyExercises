@@ -1,0 +1,51 @@
+c:\dev\AsyncAwait\NewsAndWeather\bin\NewsAndWeather.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\NewsAndWeather.pdb
+c:\dev\AsyncAwait\NewsAndWeather\bin\Antlr3.Runtime.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Microsoft.ScriptManager.jQuery.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Microsoft.ScriptManager.WebForms.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Microsoft.Web.Infrastructure.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Newtonsoft.Json.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.Formatting.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.WebRequest.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Http.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Http.WebHost.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Optimization.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Providers.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\WebGrease.dll
+c:\dev\AsyncAwait\NewsAndWeather\bin\Newtonsoft.Json.xml
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.xml
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.Formatting.xml
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Net.Http.WebRequest.xml
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Http.xml
+c:\dev\AsyncAwait\NewsAndWeather\bin\System.Web.Http.WebHost.xml
+c:\dev\AsyncAwait\NewsAndWeather\obj\Debug\NewsAndWeather.csprojResolveAssemblyReference.cache
+c:\dev\AsyncAwait\NewsAndWeather\obj\Debug\NewsAndWeather.dll
+c:\dev\AsyncAwait\NewsAndWeather\obj\Debug\NewsAndWeather.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\NewsAndWeather.dll.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\NewsAndWeather.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\NewsAndWeather.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Antlr3.Runtime.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Microsoft.ScriptManager.jQuery.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Newtonsoft.Json.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Net.Http.Formatting.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Http.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Http.WebHost.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Optimization.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Providers.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\WebGrease.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\Newtonsoft.Json.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Net.Http.Formatting.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Http.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\bin\System.Web.Http.WebHost.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\obj\Debug\NewsAndWeather.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\obj\Debug\NewsAndWeather.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\obj\Debug\NewsAndWeather.csproj.CopyComplete
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\obj\Debug\NewsAndWeather.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\5-mvc4-m5-async-exercise-files\asyncawait\after\NewsAndWeather\obj\Debug\NewsAndWeather.pdb

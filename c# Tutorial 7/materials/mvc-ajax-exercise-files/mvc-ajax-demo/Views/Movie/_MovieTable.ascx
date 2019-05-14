@@ -1,0 +1,23 @@
+<%@ Control Language="C#" Inherits="System.Web.Mvc.ViewUserControl<IEnumerable<MovieTheaterDomain.Movie>>" %>
+
+<table>
+    <tr>       
+        <th>
+            Title
+        </th>
+        <th>
+            ReleaseDate
+        </th>       
+    </tr>
+    <% foreach (var item in Model)
+       { %>
+    <tr>        
+        <td>
+            <%= Html.Encode(item.Title) %>
+        </td>
+        <td>
+            <%= Html.Encode(item.ReleaseDate.Year) %>
+        </td>       
+    </tr>
+    <% } %>
+</table>

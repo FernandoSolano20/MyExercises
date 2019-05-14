@@ -1,0 +1,14 @@
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\M8 LINQ Debugging and Testing.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\M8 LINQ Debugging and Testing.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\M8 LINQ Debugging and Testing.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\HtmlAgilityPack.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\nunit.framework.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\HtmlAgilityPack.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\nunit.framework.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\bin\Debug\nunit.framework.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\obj\Debug\M8 LINQ Debugging and Testing.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\obj\Debug\M8 LINQ Debugging and Testing.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\obj\Debug\M8 LINQ Debugging and Testing.csproj.CopyComplete
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\obj\Debug\M8 LINQ Debugging and Testing.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 12\8-linq-more-effective-m8-exercise-files\M8 LINQ Debugging and Testing\M8 LINQ Debugging and Testing\obj\Debug\M8 LINQ Debugging and Testing.pdb

@@ -1,0 +1,35 @@
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\AWMOdel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\bin\Debug\AWMOdel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\AWMOdel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\COURSE 1\AWModel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+F:\Documents\Visual Studio 2010\Projects\PSOD\Course 3 Querying\Module1\AWModel\SimpleQueries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\SimpleQueries.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\AWModel.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\AWModel.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\bin\Debug\AWModel.dll.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.csproj.CopyComplete
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 10\materials\1-ef-querying-module1-exercise-files\AWModel\SimpleQueries\obj\x86\Debug\SimpleQueries.pdb

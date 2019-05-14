@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="mvc_ajax_demo.Services.InstructorService" CodeBehind="InstructorService.svc.cs" %>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA5HQL00gdFEC3w+vWY4lGwgAAAAACAAAAAAAQZgAAAAEAACAAAAB4YwBBK56m/jyOuf2kVRbUQH5nz9RM8gINhE0ALVw3bgAAAAAOgAAAAAIAACAAAAATWO7fvCkCvniJjGF+I0rEWDesVsBQZgxzM8cTnXEvcIAAAABDikRLQHHI1q6OO4wHYaJ9Q+CpGxC8hpiN7D5xYhCeOX4URdLUu1oDTWsxz/v7Zp1d3JbwqRhHq9JLk4dxZpLJYRAO7oVPdTon9H9YKxNengFepbzHR9GuMGupiUsJWGQ1wKLcGX9nY5t1zR405jaCLtFVNKAUGY6Cz1fpJE3Nx0AAAAAPjp9xUPmDCUNQWYyLEqvMlhpLqxMpIRa2ccNQHPUUJMebhtMi5sXmVqHuvwg2FfIKGRm6bPPrvsrGeJO1izOU</EncryptedPassword>
+    <AzureDBConnectionString>Data Source=tcp:ip1jcnjbx0.database.windows.net,1433;Initial Catalog=eManagerDB;User Id=sallen@ip1jcnjbx0;Password=P@ssword1;</AzureDBConnectionString>
+  </PropertyGroup>
+</Project>

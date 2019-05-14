@@ -1,0 +1,8 @@
+C:\temp\MvcModelDemo\MovieTheaterDomain\bin\Debug\MovieTheaterDomain.Contracts.dll
+C:\temp\MvcModelDemo\MovieTheaterDomain\bin\Debug\MovieTheaterDomain.Contracts.pdb
+C:\temp\MvcModelDemo\MovieTheaterDomain\bin\Debug\MovieTheaterDomain.dll.config
+C:\temp\MvcModelDemo\MovieTheaterDomain\bin\Debug\MovieTheaterDomain.dll
+C:\temp\MvcModelDemo\MovieTheaterDomain\bin\Debug\MovieTheaterDomain.pdb
+C:\temp\MvcModelDemo\MovieTheaterDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\MvcModelDemo\MovieTheaterDomain\obj\Debug\MovieTheaterDomain.dll
+C:\temp\MvcModelDemo\MovieTheaterDomain\obj\Debug\MovieTheaterDomain.pdb

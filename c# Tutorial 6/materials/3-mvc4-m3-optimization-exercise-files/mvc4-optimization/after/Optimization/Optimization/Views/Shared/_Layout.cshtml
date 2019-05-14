@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div>
+            @RenderBody()
+    </div>    
+    @Scripts.Render("~/bundles/js")
+    <script src="@BundleTable.Bundles.ResolveBundleUrl("~/bundles/animals")"></script>
+</body>
+</html>

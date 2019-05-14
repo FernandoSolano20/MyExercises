@@ -1,0 +1,6 @@
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 3\9-csharp-best-practices-improving-basics-m9-exercise-files\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb

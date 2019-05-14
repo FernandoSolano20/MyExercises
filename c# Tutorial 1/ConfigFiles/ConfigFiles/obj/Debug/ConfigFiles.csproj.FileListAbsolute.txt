@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\bin\Debug\ConfigFiles.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\bin\Debug\ConfigFiles.exe
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\bin\Debug\ConfigFiles.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\obj\Debug\ConfigFiles.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\obj\Debug\ConfigFiles.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\obj\Debug\ConfigFiles.exe
+C:\Users\fesolano\Desktop\c# Tutorial\ConfigFiles\ConfigFiles\obj\Debug\ConfigFiles.pdb

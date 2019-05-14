@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videos", "Videos\Videos.csproj", "{BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "..\ConsoleClient\ConsoleClient\ConsoleClient.csproj", "{B4AD1096-F2DE-450E-9B13-ECA7840FDC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHost", "ConsoleHost\ConsoleHost.csproj", "{C91602D7-259B-4650-9B46-2931EC8310F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AD1096-F2DE-450E-9B13-ECA7840FDC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AD1096-F2DE-450E-9B13-ECA7840FDC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AD1096-F2DE-450E-9B13-ECA7840FDC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AD1096-F2DE-450E-9B13-ECA7840FDC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91602D7-259B-4650-9B46-2931EC8310F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91602D7-259B-4650-9B46-2931EC8310F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91602D7-259B-4650-9B46-2931EC8310F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91602D7-259B-4650-9B46-2931EC8310F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

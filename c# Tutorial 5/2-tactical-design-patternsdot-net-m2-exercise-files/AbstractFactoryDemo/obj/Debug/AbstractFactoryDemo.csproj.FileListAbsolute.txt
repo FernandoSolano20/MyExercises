@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\bin\Debug\AbstractFactoryDemo.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.exe
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 5\2-tactical-design-patternsdot-net-m2-exercise-files\AbstractFactoryDemo\obj\Debug\AbstractFactoryDemo.pdb

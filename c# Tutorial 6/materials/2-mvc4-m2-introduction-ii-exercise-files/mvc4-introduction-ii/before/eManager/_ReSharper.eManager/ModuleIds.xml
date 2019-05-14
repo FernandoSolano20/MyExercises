@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="0B10C90E-4FDD-4253-9BFE-657A562B029E" ModuleId="eManager.Domain" />
+  <Module PersistentId="E40ACFEC-0AAE-41DA-B07C-579DA5BBD0CC" ModuleId="eManager.Web" />
+</Modules>

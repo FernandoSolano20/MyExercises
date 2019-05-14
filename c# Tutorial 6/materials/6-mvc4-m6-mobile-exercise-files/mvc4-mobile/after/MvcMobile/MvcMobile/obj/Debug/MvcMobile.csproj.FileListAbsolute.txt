@@ -1,0 +1,71 @@
+c:\dev\MvcMobile\MvcMobile\bin\MvcMobile.dll
+c:\dev\MvcMobile\MvcMobile\bin\MvcMobile.pdb
+c:\dev\MvcMobile\MvcMobile\bin\Antlr3.Runtime.dll
+c:\dev\MvcMobile\MvcMobile\bin\EntityFramework.dll
+c:\dev\MvcMobile\MvcMobile\bin\Microsoft.Web.Infrastructure.dll
+c:\dev\MvcMobile\MvcMobile\bin\Newtonsoft.Json.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.Formatting.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.WebRequest.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Helpers.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Http.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Http.WebHost.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Mvc.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Optimization.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Providers.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Razor.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.Deployment.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.dll
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.Razor.dll
+c:\dev\MvcMobile\MvcMobile\bin\WebGrease.dll
+c:\dev\MvcMobile\MvcMobile\bin\EntityFramework.xml
+c:\dev\MvcMobile\MvcMobile\bin\Newtonsoft.Json.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.Formatting.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Net.Http.WebRequest.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Helpers.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Http.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Http.WebHost.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Mvc.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.Razor.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.Deployment.xml
+c:\dev\MvcMobile\MvcMobile\bin\System.Web.WebPages.Razor.xml
+c:\dev\MvcMobile\MvcMobile\obj\Debug\MvcMobile.csprojResolveAssemblyReference.cache
+c:\dev\MvcMobile\MvcMobile\obj\Debug\MvcMobile.dll
+c:\dev\MvcMobile\MvcMobile\obj\Debug\MvcMobile.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\MvcMobile.dll.config
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\MvcMobile.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\MvcMobile.pdb
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\Antlr3.Runtime.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\EntityFramework.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\Newtonsoft.Json.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Net.Http.Formatting.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Helpers.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Http.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Http.WebHost.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Mvc.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Optimization.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Providers.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Razor.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.Razor.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\WebGrease.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\EntityFramework.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\Newtonsoft.Json.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Net.Http.Formatting.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Helpers.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Http.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Http.WebHost.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Mvc.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.Razor.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\bin\System.Web.WebPages.Razor.xml
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\obj\Debug\MvcMobile.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\obj\Debug\MvcMobile.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\obj\Debug\MvcMobile.csproj.CopyComplete
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\obj\Debug\MvcMobile.dll
+C:\Users\fesolano\Desktop\My exercise\c# Tutorial 6\materials\6-mvc4-m6-mobile-exercise-files\mvc4-mobile\after\MvcMobile\MvcMobile\obj\Debug\MvcMobile.pdb

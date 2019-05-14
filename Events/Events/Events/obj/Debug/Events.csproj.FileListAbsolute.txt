@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\bin\Debug\Events.exe.config
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\bin\Debug\Events.exe
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\bin\Debug\Events.pdb
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\obj\Debug\Events.exe
+C:\Users\fesolano\Desktop\My exercise\Events\Events\Events\obj\Debug\Events.pdb

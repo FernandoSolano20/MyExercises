@@ -1,0 +1,7 @@
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\bin\Debug\ExploringNETFramework.exe.config
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\bin\Debug\ExploringNETFramework.exe
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\bin\Debug\ExploringNETFramework.pdb
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\obj\Debug\ExploringNETFramework.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\obj\Debug\ExploringNETFramework.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\obj\Debug\ExploringNETFramework.exe
+C:\Users\fesolano\Desktop\c# Tutorial\ExploringNETFramework\ExploringNETFramework\obj\Debug\ExploringNETFramework.pdb

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="BDF9CFA1-7EA8-4D7F-AD3E-42F3A1CFDA6C" ModuleId="Videos" />
+  <Module PersistentId="B4AD1096-F2DE-450E-9B13-ECA7840FDC05" ModuleId="ConsoleClient" />
+  <Module PersistentId="C91602D7-259B-4650-9B46-2931EC8310F6" ModuleId="ConsoleHost" />
+</Modules>
